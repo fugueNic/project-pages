@@ -1,12 +1,18 @@
 ---
-layout:     post
-title:      New Matlab Script
-author:     Ahmet Cecen
-tags: 		matlab workflows template
-subtitle:   Some Short Description of the Script
-category:  project1
+title: New Matlab Script
+date: 2016-05-02 00:00:00 Z
+categories:
+- project1
+tags:
+- matlab
+- workflows
+- template
+layout: post
+author: Ahmet Cecen
+subtitle: Some Short Description of the Script
 visualworkflow: true
 ---
+
 {% if page.visualworkflow == true %}
    {% include workflowmatlab.html %}
 {% endif %}   

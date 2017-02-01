@@ -1,16 +1,19 @@
 ---
-layout:     	slide
-title:     		New Presentation
-author:     	Ahmet Cecen
-tags:           presentation template
-subtitle:    	Some Short Description of Presentation
-
-theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
-trans:		default # default/cube/page/concave/zoom/linear/fade/none
-
-horizontal:	</section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
-vertical:		</section><section markdown="1">
+title: New Presentation
+date: 2016-05-02 00:00:00 Z
+tags:
+- presentation
+- template
+layout: slide
+author: Ahmet Cecen
+subtitle: Some Short Description of Presentation
+theme: night
+trans: default
+horizontal: </section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
+  markdown="1">
+vertical: </section><section markdown="1">
 ---
+
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
 
